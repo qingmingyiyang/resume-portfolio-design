@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历与作品集"
+  short_description: "用真实经历组织STAR，制作简历、素材库和可复制网申资料"
+  default_prompt: "Use $resume-portfolio-design to improve my resume using verified experience and check the final output."
